@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # yyxiake_flutter
 
 A new Flutter project.
@@ -9,3 +10,6 @@ For help getting started with Flutter, view our online
 
 For instructions integrating Flutter modules to your existing applications,
 see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+=======
+# FlutterYouXiaKe
+>>>>>>> 143b0655ad9efc5f431ecebdedd819cc9bf6117d
